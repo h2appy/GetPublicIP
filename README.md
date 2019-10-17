@@ -1,2 +1,3 @@
 # GetPublicIP
-Get public IP
+
+Get public IP by using Python script.
